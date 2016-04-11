@@ -1,2 +1,2 @@
 # snake
-Just a terminal game
+Le jeu snake en terminal.
